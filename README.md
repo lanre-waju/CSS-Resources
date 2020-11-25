@@ -86,7 +86,6 @@
 - [CSS - CSS Values](https://cssvalues.com/)
 
 
----
 
 
 ## CSS Flexbox
@@ -147,7 +146,6 @@
 
 - [CSS Flexible Box Layout Module Level 1 - W3C](https://www.w3.org/TR/css-flexbox-1/)
 
----
 
 
 ## CSS Grid
@@ -206,7 +204,6 @@
 - [CSS Grid Layout Module Level 1 - W3C](https://www.w3.org/TR/css-grid-1/)
 
 
----
 
 
 ## CSS Animations
@@ -248,7 +245,6 @@
 - [CSS Animation - w3schools](https://www.w3schools.com/css/css3_animations.asp)
 
 
----
 
 
 ## Media Queries
@@ -300,7 +296,6 @@
 - [Media Queries - W3C](https://www.w3.org/TR/css3-mediaqueries/)
 
 
----
 
 
 ## Bootstrap
@@ -340,7 +335,6 @@
 - [Bootstrap 4 Tutorial - w3schools](https://www.w3schools.com/bootstrap4/bootstrap_get_started.asp)
 
 
----
 
 
 ## Sass
