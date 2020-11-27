@@ -269,7 +269,7 @@
 
 ### 📃 Blogs
 
-- [mediaqueri.es](https://mediaqueri.es/)
+- [Media Queries Gallery](https://mediaqueri.es/)
 
 - [Media Queries for Standard Devices - CSS Tricks](https://css-tricks.com/snippets/css/media-queries-for-standard-devices/)
 
