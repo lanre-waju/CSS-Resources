@@ -256,7 +256,7 @@
 
 ### 📺 Youtube
 
-- [Learn CSS Media Query in7 Minutes - Web Dev Simplified](https://www.youtube.com/watch?v=yU7jJ3NbPdA)
+- [Learn CSS Media Query in 7 Minutes - Web Dev Simplified](https://www.youtube.com/watch?v=yU7jJ3NbPdA)
 
 - [Responsive Web Design Tutorial #5-Media Queries - The Net Ninja](https://www.youtube.com/watch?v=5xzaGSYd7jM)
 
