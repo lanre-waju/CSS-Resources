@@ -309,7 +309,7 @@
 
 - [Bootstrap Beginner Crash Course - Travesy Media](https://www.youtube.com/watch?reload=9&v=5GcQtLDGXy8)
 
-- [Bootstrap 4 Tutorial - The Net Ninja](https://www.youtube.com/watch?v=QAgrHLtG1Yk&list=PL4cUxeGkcC9jE_cGvLLC60C_PeF_24pvv)
+- [Bootstrap 5 Tutorial - The Net Ninja](https://www.youtube.com/watch?v=O_9u1P5YjVc&list=PL4cUxeGkcC9joIM91nLzd_qaH_AimmdAR)
 
 - [Responsive Bootstrap Website Start To Finish with Bootstrap 4, HTML5 & CSS3 - Drew Ryan](https://www.youtube.com/watch?v=9cKsq14Kfsw&pbjreload=101)
 
